@@ -1,0 +1,33 @@
+_repo: Louis-Spohr-s-AutobiographyTranslated-from-the-German_45997
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45997-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Spohr, Louis
+    aliases:
+    - Spohr, Ludewig
+    - Spohr, L. (Louis)
+    - Spohr, Ludwig
+    birthdate: 1784
+    deathdate: 1859
+    gutenberg_agent_id: '43562'
+    url: http://www.gutenberg.org/2009/agents/43562
+description: ''
+gutenberg_issued: '2014-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spohr, Louis, 1784-1859'
+- !lcc 'ML'
+- !lcsh 'Musicians -- Biography'
+title: 'Louis Spohr''s Autobiography
+
+  Translated from the German'
+url: http://www.gutenberg.org/ebooks/45997
